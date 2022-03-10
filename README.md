@@ -128,3 +128,25 @@ Run `npm run build` to build the project.
 ## Lint code with ESLint
 
 Run `npm run lint`.
+
+## Demo: When the app funtions correctly, after Azure AD login you should see the following screens
+
+1. Dashboard
+
+![RG Basic Tab](images/vuedemo-1.png)
+&nbsp;
+
+2. Products
+
+![RG Basic Tab](images/vuedemo-2.png)
+&nbsp;
+
+3. Files
+
+![RG Basic Tab](images/vuedemo-3.png)
+&nbsp;
+
+4. School
+
+![RG Basic Tab](images/vuedemo-4.png)
+&nbsp;
