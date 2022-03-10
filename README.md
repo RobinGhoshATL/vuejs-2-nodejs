@@ -133,20 +133,20 @@ Run `npm run lint`.
 
 1. Dashboard
 
-![RG Basic Tab](images/vuedemo-1.png)
+![RG Basic Tab](vuedemo-1.png)
 &nbsp;
 
 2. Products
 
-![RG Basic Tab](images/vuedemo-2.png)
+![RG Basic Tab](vuedemo-2.png)
 &nbsp;
 
 3. Files
 
-![RG Basic Tab](images/vuedemo-3.png)
+![RG Basic Tab](vuedemo-3.png)
 &nbsp;
 
 4. School
 
-![RG Basic Tab](images/vuedemo-4.png)
+![RG Basic Tab](vuedemo-4.png)
 &nbsp;
